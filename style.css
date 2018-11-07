@@ -188,7 +188,8 @@ body {
   }
 
   .bubble{
-    padding-top: 7em;
+    position: fixed;
+    bottom: 50%;
 
-    padding-right: 15em;
+left: 35%;
   }
